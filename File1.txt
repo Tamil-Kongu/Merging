@@ -1,3 +1,5 @@
 This is file 1
 Welcome to CSE
 Welcome to MECH
+Fast forward
+Merging with master
