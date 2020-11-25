@@ -1,12 +1,1 @@
-This is my file
-Line 1 - version1
-This is second line 
-second commit in master
-This is branch 1
-this is third line
-This is second commit in branch 1
-fourth line
-For recursive strategy
-in master
-This is r1 branch changes
-This is r1 - change2
+Testing1
