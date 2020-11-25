@@ -1,17 +1,1 @@
-This is my file
-Line 1 - version1
-This is second line 
-second commit in master
-This is branch 1
-this is third line
-This is second commit in branch 1
-fourth line
-For recursive strategy
-in master
-This is r1 branch changes
-<<<<<<< HEAD
-This is r1 - change2
-This is r2 change
-=======
-This is r1 - change2
->>>>>>> r1
+Number 1
