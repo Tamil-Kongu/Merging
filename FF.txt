@@ -6,3 +6,5 @@ This is branch 1
 this is third line
 This is second commit in branch 1
 fourth line
+For recursive strategy
+in master
