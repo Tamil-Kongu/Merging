@@ -3,6 +3,10 @@ VSSC
 K Tamil Selvi
 Scientist -SC
 Function1 : KEC
+<<<<<<< HEAD
 Function 2: BIT
 Function 3 : KVM
 Function 4 : Nandha
+=======
+Function 2: BIT
+>>>>>>> isro1
