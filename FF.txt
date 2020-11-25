@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 Indian space research organisation
+=======
+ISRO
+VSSC
+K Tamil Selvi
+Scientist -SC
+Function1 : KEC
+Function 2: BIT
+>>>>>>> isro1
