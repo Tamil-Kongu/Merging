@@ -8,3 +8,6 @@ This is second commit in branch 1
 fourth line
 For recursive strategy
 in master
+This is r1 branch changes
+This is r1 - change2
+This is r2 change
