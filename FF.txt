@@ -9,5 +9,9 @@ fourth line
 For recursive strategy
 in master
 This is r1 branch changes
+<<<<<<< HEAD
 This is r1 - change2
 This is r2 change
+=======
+This is r1 - change2
+>>>>>>> r1
