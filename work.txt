@@ -1,8 +1,2 @@
-working in Git
-Work with Github
-More interactive modeling
-Master commit-1
-Master commit-2
-Branch fast commit-1
-Branch fast commit-2
-good
+line1 - commit1
+line 2 - commit-2
