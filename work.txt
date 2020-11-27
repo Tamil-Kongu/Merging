@@ -2,3 +2,8 @@ line1 - commit1
 line 2 - commit-2
 line3 - branch1
 line 4 - branch2
+
+
+
+
+Master - conflict addition
